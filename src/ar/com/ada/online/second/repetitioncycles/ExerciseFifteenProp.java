@@ -1,4 +1,4 @@
-package ar.com.ada.online.second.exercise15proposed;
+package ar.com.ada.online.second.repetitioncycles;
 
 import java.util.Scanner;
 
