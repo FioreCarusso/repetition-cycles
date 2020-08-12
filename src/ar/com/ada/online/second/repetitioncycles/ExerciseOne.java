@@ -14,13 +14,13 @@ public class ExerciseOne {
         Scanner scan = new Scanner(System.in);
 
         for (int i = 0; i < array.length; i++) {
-             array[i] = scan.nextInt();
+            array[i] = scan.nextInt();
         }
 
-        for (int i = 0; i < array.length ; i++) {
+        for (int i = 0; i < array.length; i++) {
             sumOfNumbers += array[i];
         }
-        System.out.printf("La suma de los elementos del vector es %d" , sumOfNumbers);
+        System.out.printf("La suma de los elementos del vector es %d", sumOfNumbers);
 
     }
 }
